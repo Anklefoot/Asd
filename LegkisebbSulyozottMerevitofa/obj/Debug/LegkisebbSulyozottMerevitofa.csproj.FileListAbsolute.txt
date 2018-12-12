@@ -1,0 +1,11 @@
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\bin\Debug\LegkisebbSulyozottMerevitofa.exe.config
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\bin\Debug\LegkisebbSulyozottMerevitofa.exe
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\bin\Debug\LegkisebbSulyozottMerevitofa.pdb
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\obj\Debug\LegkisebbSulyozottMerevitofa.csprojAssemblyReference.cache
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\obj\Debug\LegkisebbSulyozottMerevitofa.csproj.CoreCompileInputs.cache
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\obj\Debug\LegkisebbSulyozottMerevitofa.exe
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\obj\Debug\LegkisebbSulyozottMerevitofa.pdb
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\bin\Debug\LegkisebbSulyozottMerevitofa.exe.manifest
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\bin\Debug\LegkisebbSulyozottMerevitofa.application
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\obj\Debug\LegkisebbSulyozottMerevitofa.exe.manifest
+C:\Users\Zsoltii\source\repos\LegkisebbSulyozottMerevitofa\LegkisebbSulyozottMerevitofa\obj\Debug\LegkisebbSulyozottMerevitofa.application
